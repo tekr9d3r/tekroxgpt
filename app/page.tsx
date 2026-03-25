@@ -80,7 +80,7 @@ export default function Home() {
       </div>
 
       {/* Header */}
-      <div className="w-full max-w-lg border-b border-white/10 px-4 py-3 flex items-center gap-3 bg-black/20 backdrop-blur-sm">
+      <div className="w-full max-w-2xl border-b border-white/10 px-4 py-3 flex items-center gap-3 bg-black/20 backdrop-blur-sm">
         <Image
           src="/images/profile-pic.jpg"
           alt="Tekrox"
@@ -97,7 +97,7 @@ export default function Home() {
       </div>
 
       {/* Messages */}
-      <div className="flex-1 overflow-y-auto w-full max-w-lg px-4 py-6 space-y-4">
+      <div className="flex-1 overflow-y-auto w-full max-w-2xl px-4 py-6 space-y-4">
         {messages.length === 0 && (
           <motion.div
             initial={{ opacity: 0, y: 10 }}
@@ -141,7 +141,7 @@ export default function Home() {
                 />
               )}
               <div
-                className={`max-w-[80%] px-4 py-3 rounded-2xl text-sm leading-relaxed ${
+                className={`max-w-[85%] px-4 py-3 rounded-2xl text-base leading-relaxed break-words ${
                   msg.role === "user"
                     ? "bg-blue-600/90 backdrop-blur-sm text-white rounded-br-sm"
                     : "bg-black/40 backdrop-blur-sm border border-white/10 text-white/90 rounded-bl-sm"
@@ -184,7 +184,7 @@ export default function Home() {
       </div>
 
       {/* Input */}
-      <div className="w-full max-w-lg border-t border-white/10 px-4 py-4 bg-black/20 backdrop-blur-sm">
+      <div className="w-full max-w-2xl border-t border-white/10 px-4 py-4 bg-black/20 backdrop-blur-sm">
         <div className="flex gap-2">
           <input
             ref={inputRef}
@@ -194,7 +194,7 @@ export default function Home() {
             onKeyDown={handleKeyDown}
             placeholder="Ask me something..."
             disabled={loading}
-            className="flex-1 bg-white/10 border border-white/15 rounded-xl px-4 py-3 text-sm text-white placeholder-white/30 focus:outline-none focus:border-blue-400/50 disabled:opacity-50 backdrop-blur-sm"
+            className="flex-1 bg-white/10 border border-white/15 rounded-xl px-4 py-3 text-base text-white placeholder-white/30 focus:outline-none focus:border-blue-400/50 disabled:opacity-50 backdrop-blur-sm"
           />
           <button
             onClick={() => sendMessage(input)}
