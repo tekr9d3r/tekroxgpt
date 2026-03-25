@@ -1,6 +1,6 @@
 # TekroxGPT
 
-A personal AI chatbot built for ETHCC Cannes 2025. Instead of handing out business cards, people scan a QR code and chat with an AI that knows everything about me.
+A personal AI chatbot built for ETHCC Cannes 2026. Instead of handing out business cards, and chating on TG,  people scan a QR code and chat with an AI that knows everything I know.
 
 ## What it does
 
