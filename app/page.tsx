@@ -123,7 +123,8 @@ export default function Home() {
       </div>
 
       {/* Messages */}
-      <div className="flex-1 overflow-y-auto w-full max-w-2xl px-4 py-6 space-y-4">
+      <div className="flex-1 overflow-y-auto w-full max-w-2xl px-4 py-6">
+        <div className="flex flex-col justify-end min-h-full space-y-4">
         {messages.length === 0 && (
           <motion.div
             initial={{ opacity: 0, y: 10 }}
@@ -207,6 +208,7 @@ export default function Home() {
         </AnimatePresence>
 
         <div ref={bottomRef} />
+        </div>
       </div>
 
       {/* Input */}
