@@ -11,8 +11,7 @@ A personal AI chatbot built for ETHCC Cannes 2026. Instead of handing out busine
 ## Stack
 
 - **Next.js 14** — frontend + API routes
-- **Claude Sonnet 4.6** — AI responses (Anthropic API)
-- **ElevenLabs** — text-to-speech (optional)
+- **Claude Haiku 4.5** — AI responses (Anthropic API)
 - **Tailwind CSS** — styling
 
 ## Setup
@@ -25,8 +24,6 @@ Create `.env.local`:
 
 ```
 ANTHROPIC_API_KEY=your_key_here
-ELEVENLABS_API_KEY=your_key_here
-ELEVENLABS_VOICE_ID=your_voice_id_here
 ```
 
 ```bash

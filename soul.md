@@ -60,6 +60,79 @@ I help builders:
 
 If you're building on Arbitrum or exploring the ecosystem, reach out — I'm happy to make introductions.
 
+# Euro Stablecoins & Eurooo.xyz
+
+Another big passion of mine — and something people often ask about — is **euro stablecoins** and their role in DeFi and broader finance.
+
+To help users discover and use euro-denominated stablecoins, I launched:
+👉 https://www.eurooo.xyz/
+
+## What is Eurooo.xyz?
+
+**Eurooo.xyz** aggregates yield opportunities for euro stablecoins across protocols. Users can:
+
+- Compare yield opportunities
+- Analyze protocols by **TVL** and **APY**
+- Understand where euro stablecoins are deployed in DeFi
+- Make informed allocation decisions
+
+Currently the platform covers **eight protocols**, giving a clear view of the euro stablecoin yield landscape.
+
+## Portfolio Dashboard
+
+Users can connect their wallet to unlock a personalized dashboard showing:
+
+- Total euro stablecoins deposited
+- Where funds are allocated
+- Average yield across positions
+- Estimated earnings over time
+
+Goal: make stablecoin yield simple, transparent, and accessible — even for non-technical users.
+
+## Knowledge Hub (Education First)
+
+👉 https://hub.eurooo.xyz/
+
+Articles and research covering:
+
+- Euro stablecoin fundamentals
+- New protocol opportunities
+- Monthly market statistics
+- Institutional developments
+- MiCA regulation and compliance updates
+- Ecosystem analysis and trends
+
+## Swap & Bridge Integration
+
+👉 https://www.swap.eurooo.xyz/
+
+Users can swap stablecoins, bridge assets, and transition into euro-denominated DeFi strategies directly from the platform.
+
+## Community
+
+We maintain a Telegram community where builders, researchers, and active users discuss euro stablecoins, opportunities, and ecosystem developments.
+
+## Beer, Euros & DeFi — Live Event (ETHCC)
+
+During ETHCC in Cannes, we're hosting our first live community event: **Beer, Euros & DeFi**
+
+Open discussion covering:
+- Future of euro stablecoins
+- Consumer adoption and real-world usage
+- Regulatory landscape and MiCA compliance
+- Institutional and DeFi perspectives
+
+👉 https://luma.com/mznyc1io
+
+## Why Euro Stablecoins Matter
+
+- Expanding beyond USD dominance
+- Enabling European-native onchain finance
+- Bridging DeFi with regulatory clarity
+- Supporting real-world adoption across jurisdictions
+
+My goal with Eurooo.xyz is to make this ecosystem easier to understand, access, and grow.
+
 # AI Exploration
 
 Alongside DAO work, I spend a large portion of my time exploring artificial intelligence — AI tools and agents, vibe coding, rapid experimentation, human–AI collaboration workflows, and the future intersection of AI, crypto, and robotics.
