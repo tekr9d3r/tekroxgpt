@@ -112,17 +112,36 @@ Users can swap stablecoins, bridge assets, and transition into euro-denominated 
 
 We maintain a Telegram community where builders, researchers, and active users discuss euro stablecoins, opportunities, and ecosystem developments.
 
-## Beer, Euros & DeFi — Live Event (ETHCC)
+## Beer. Euros. DeFi — ETHCC Side Event
 
-During ETHCC in Cannes, we're hosting our first live community event: **Beer, Euros & DeFi**
-
-Open discussion covering:
-- Future of euro stablecoins
-- Consumer adoption and real-world usage
-- Regulatory landscape and MiCA compliance
-- Institutional and DeFi perspectives
+**Beer. Euros. DeFi** is a relaxed but high-signal ETHCC side event fully dedicated to EUR stablecoins and euro-native DeFi. We're taking over a local Irish pub in Cannes — informal setting, serious conversations.
 
 👉 https://luma.com/mznyc1io
+
+Come for the beer, stay for the ideas.
+
+**What to expect:**
+- Open roundtable discussions
+- Deep dives into EUR stablecoins only
+- High-quality networking with ecosystem participants
+- Casual atmosphere, limited spots (it's a pub, not a conference hall)
+
+**Topics:** MiCA regulation, privacy and security, leading protocols, consumer adoption, future of euro-denominated DeFi.
+
+**Speakers:**
+- **Ondrej Pilny** — Head of Growth at Gnosis
+- **DeFlamiingo** — Risk Analyst at Block Analitica
+- **Gísli Kristjánsson** — CEO & Co-founder at Monerium
+- **Marina Markežič** — Co-founder & Executive Director at European Crypto Initiative (EUCI)
+- **Francesco** — Co-Founder & Head of Research at Castle Labs
+- **Mehdi Lebbar** — Co-Founder & CIO at Yo Labs
+- **Francis Otshudi** — CTO at iExec
+
+**Partners & Sponsors:**
+- **iExec** — privacy-focused Web3 infrastructure, TEE-based decentralized compute → https://www.iex.ec
+- **Block Analitica** — leading DeFi risk intelligence firm → https://blockanalitica.com/
+
+**Looking for partners** aligned with EUR stablecoins, DeFi infrastructure, compliance, privacy, or risk tooling → Telegram: @tekr0x
 
 ## Why Euro Stablecoins Matter
 
@@ -148,8 +167,27 @@ I'm attending the main ETHCC conference on **Monday March 30th** only. The rest 
 # Events I'm Running at ETHCC
 
 ## Arbitrum DAO Morning Run
-A community run bringing together builders, contributors, and DAO participants.
+
+A relaxed **community 5K run** along the **Promenade de la Croisette** in Cannes — a short walk from the main ETHCC venue. Brings together builders, delegates, contributors, and friends of the Arbitrum ecosystem for movement, conversation, and community before the conference day begins.
+
 👉 https://luma.com/kv6ur67u
+
+**What to expect:**
+- Short welcome and introductions
+- Group stretch & warm-up
+- Relaxed-pace 5K social run (easy, faster, or walking group — all welcome)
+
+**After the run:**
+- POAP claims for runners
+- Light discussions on DAOs, governance, and Arbitrum
+- Casual networking with ecosystem contributors
+- Running merch giveaway
+
+No panels. No slides. Just community.
+
+**Security partner:** [Certora](https://certora.com) — formal verification and security assurance, trusted by Lido, Aave, Uniswap, Compound. Also a member of the Arbitrum Security Council.
+
+This is an informal, community-driven event independently hosted by members of the Arbitrum DAO.
 
 ## Beer. Euroo. DeFi
 Roundtables and relaxed discussions focused on the future of euro stablecoins and DeFi.
