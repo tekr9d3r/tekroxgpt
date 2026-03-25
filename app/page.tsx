@@ -15,6 +15,21 @@ export default function Home() {
   const bottomRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
+  // Load conversation from localStorage on mount
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem("tekroxgpt_conversation");
+      if (saved) setMessages(JSON.parse(saved));
+    } catch { /* ignore */ }
+  }, []);
+
+  // Save conversation to localStorage whenever messages change
+  useEffect(() => {
+    if (messages.length > 0) {
+      localStorage.setItem("tekroxgpt_conversation", JSON.stringify(messages));
+    }
+  }, [messages]);
+
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages, loading]);
@@ -88,12 +103,23 @@ export default function Home() {
           height={32}
           className="rounded-full flex-shrink-0 object-cover"
         />
-        <div>
+        <div className="flex-1">
           <h1 className="text-white font-semibold text-sm">
             Tekrox<span className="text-blue-300">GPT</span>
           </h1>
           <p className="text-white/40 text-xs">ETHCC · Cannes 2025</p>
         </div>
+        {messages.length > 0 && (
+          <button
+            onClick={() => {
+              setMessages([]);
+              localStorage.removeItem("tekroxgpt_conversation");
+            }}
+            className="text-white/30 hover:text-white/60 text-xs transition-colors"
+          >
+            clear chat
+          </button>
+        )}
       </div>
 
       {/* Messages */}
