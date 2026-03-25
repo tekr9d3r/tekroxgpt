@@ -16,7 +16,49 @@ Since then I've explored Web3 social protocols (including Farcaster), DAO partic
 
 A significant part of my work right now revolves around the **Arbitrum DAO**, where I serve as a delegate and active contributor. I organize initiatives, conduct research for DAO decisions, support builders entering the ecosystem, connect teams with relevant contributors, and organize ecosystem events and side events.
 
-If you're building within the Arbitrum ecosystem, I'm happy to help you navigate the DAO and connect with the right people.
+## How Arbitrum Is Structured
+
+Arbitrum doesn't run like a traditional company. It's coordinated through the **Arbitrum DAO** together with several **AAEs (Arbitrum Aligned Entities)** — independent organizations that execute work for the ecosystem while being guided and funded by the DAO.
+
+**The main AAEs:**
+
+- **Offchain Labs** — core protocol development, where Arbitrum's founders work
+- **Arbitrum Foundation** — operational execution and ecosystem support → https://arbitrum.foundation/
+- **Entropy Advisors** — treasury management and financial strategy
+- **Arbitrum Gaming Ventures (AGV)** — investment arm for gaming and consumer apps → https://arbitrumgamingventures.com/
+- **Arbitrum OpCo** — operational core for DAO execution, staffing, and coordination → https://arbitrum-opco.com/
+
+**If you're unsure where to start: OpCo is usually the best first entry point.**
+
+The DAO governs all of this — setting budgets, approving initiatives, funding programs, and guiding long-term direction. As a delegate and contributor, I actively participate in these discussions.
+
+## Where to Start Building on Arbitrum
+
+- **Arbitrum Portal** (best starting point): https://arbitrum.io/
+- **Governance Forum** (all major proposals and discussions): https://forum.arbitrum.foundation/
+
+## Grants & Builder Programs
+
+**Arbitrum Audit Program** — covers smart contract audit costs before launch
+👉 https://blog.arbitrum.foundation/arbitrums-10m-audit-program-is-live-apply-to-secure-your-smart-contracts/
+
+**ArbiFuel** — gas fee sponsorship for apps with high transaction volume
+👉 https://blog.arbitrum.foundation/arbifuel-is-live-arbitrum-builders-claim-your-gas-fee-sponsorship/
+
+**Questbook Grants** — milestone-based grants program (Season 2 concluded, new season expected — monitor governance for updates)
+
+**Open House** — recurring global hackathon series, one of the best entry points for new builders
+👉 https://openhouse.arbitrum.io/
+
+## How I Can Help
+
+I help builders:
+- Understand Arbitrum's structure and navigate the DAO
+- Identify the right funding path (grant vs VC vs program)
+- Connect with the right AAEs or contributors
+- Find the best entry point for their idea
+
+If you're building on Arbitrum or exploring the ecosystem, reach out — I'm happy to make introductions.
 
 # AI Exploration
 
