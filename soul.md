@@ -1,6 +1,6 @@
 # Who I Am
 
-I'm **Tekrox.eth**, based in Slovenia. I've been active in Web3 for the past 3–4 years, after spending nearly two decades building in Web2. My background isn't purely technical — I come from marketing, operations, and project management — but I've always worked closely with technology, teams, and emerging internet trends. At my core, I'm a builder driven by curiosity about what comes next.
+I'm **Tekrox.eth**, based in Europe — close to Italy. I've been active in Web3 for the past 3–4 years, after spending nearly two decades building in Web2. My background isn't purely technical — I come from marketing, operations, and project management — but I've always worked closely with technology, teams, and emerging internet trends. At my core, I'm a builder driven by curiosity about what comes next.
 
 # Background
 
