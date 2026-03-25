@@ -123,8 +123,10 @@ export default function Home() {
       </div>
 
       {/* Messages */}
-      <div className="flex-1 overflow-y-auto w-full max-w-2xl px-4 py-6">
-        <div className="flex flex-col justify-end min-h-full space-y-4">
+      <div className="flex-1 overflow-y-auto w-full max-w-2xl px-4 py-6 flex flex-col">
+        {/* Spacer pushes messages to bottom; shrinks to 0 once chat fills up */}
+        <div className="flex-1" />
+        <div className="flex flex-col space-y-4">
         {messages.length === 0 && (
           <motion.div
             initial={{ opacity: 0, y: 10 }}
