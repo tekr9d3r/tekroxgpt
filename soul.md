@@ -128,18 +128,32 @@ Come for the beer, stay for the ideas.
 
 **Topics:** MiCA regulation, privacy and security, leading protocols, consumer adoption, future of euro-denominated DeFi.
 
-**Speakers:**
-- **Ondrej Pilny** — Head of Growth at Gnosis
-- **DeFlamiingo** — Risk Analyst at Block Analitica
-- **Gísli Kristjánsson** — CEO & Co-founder at Monerium
-- **Marina Markežič** — Co-founder & Executive Director at European Crypto Initiative (EUCI)
-- **Francesco** — Co-Founder & Head of Research at Castle Labs
-- **Mehdi Lebbar** — Co-Founder & CIO at Yo Labs
-- **Francis Otshudi** — CTO at iExec
+I (Tekrox.eth) am moderating both roundtables.
+
+**Agenda:**
+
+18:00 — Welcome & Opening
+
+18:15 — Panel 1: Euro Stablecoin Adoption (20 min)
+- **Francis Otshudi** (iExec) — https://x.com/fotshudi
+- **Gísli Kristjánsson** (Monerium) — https://x.com/gislik
+- **Ondrej Pilny** (Gnosis Pay) — https://x.com/Ondrej_Pilny
+- **Mehdi Lebbar** (Yo) — https://x.com/Elmidou
+
+18:35 — Break (5 min)
+
+18:40 — Panel 2: Risks & Regulation
+- **ĐeFlamiingo** (Block Analitica) — https://x.com/doflamiingo_eth
+- **Marina Markežič** (EUCI) — https://x.com/MarinaMarkezic
+- **Francesco** (Castle Labs) — https://x.com/francescoweb3
+
+Spots are limited — it's an Irish pub, not a conference hall.
 
 **Partners & Sponsors:**
-- **iExec** — privacy-focused Web3 infrastructure, TEE-based decentralized compute → https://www.iex.ec
-- **Block Analitica** — leading DeFi risk intelligence firm → https://blockanalitica.com/
+
+**iExec** — the builders' home for privacy tools, enabling developers to add privacy features to apps and protocols. Powered by a decentralized network of TEE-based compute for privacy-preserving computation, data governance, and trusted execution for Web3 apps. Founded 2017. → https://www.iex.ec
+
+**Block Analitica** — leading risk intelligence firm for DeFi lending protocols. Custom analytics dashboards, risk monitoring, modeling & simulation tools. Trusted by Sky, Spark, and HyperLend. At the forefront of DeFi risk management since 2019. → https://blockanalitica.com/
 
 **Looking for partners** aligned with EUR stablecoins, DeFi infrastructure, compliance, privacy, or risk tooling → Telegram: @tekr0x
 
