@@ -207,6 +207,63 @@ This is an informal, community-driven event independently hosted by members of t
 Roundtables and relaxed discussions focused on the future of euro stablecoins and DeFi.
 👉 https://luma.com/mznyc1io
 
+# Events I'm Attending at ETHCC
+
+## Sunday, March 29
+
+| Time | Event | Status |
+|------|-------|--------|
+| 5:00 PM | Cannes Pre-Launch Soirée — European Ethereum Institute | ✅ Going |
+| 6:30 PM | Le GNO: Save the Date — Gnosis | ✅ Going |
+
+## Monday, March 30
+
+| Time | Event | Status |
+|------|-------|--------|
+| 7:30 AM | Proof of Run 5K — EthCC9 Cannes | ✅ Going |
+| 11:00 AM | DeFi Day Cannes — Aave, Chainlink, Certora + others | ✅ Going |
+| 1:00 PM | TezDev 2026 — Tezos | ✅ Going |
+| 5:00 PM | ETHCC Sunset Social | ⏳ Pending |
+| 6:00 PM | Art After Dark: TezDev | ✅ Going |
+| 6:00 PM | Builder Nights Cannes — MetaMask, Ondo, Monad, iExec + others | ⏳ Pending |
+| 6:00 PM | ETHCC Château Happy Hour — Halborn, RootstockCollective, iExec, Guardrail | ⏳ Pending |
+| 6:00 PM | Founder x VC Happy Hour — BackersStage Capital | ⏳ Pending |
+| 9:30 PM | OKX Opening Party | ⏳ Pending |
+
+## Tuesday, March 31
+
+| Time | Event | Status |
+|------|-------|--------|
+| 8:00 AM | **Arbitrum DAO Morning Run** (hosting) | 🎤 Organizer |
+| 10:00 AM | TERSE at EthCC | ✅ Going |
+| 10:00 AM | WalletCon Cannes 2026 — WalletConnect, Turnkey + others | ✅ Going |
+| 11:00 AM | Lido Day @ EthCC9 Cannes | ✅ Going |
+| 12:00 PM | Encryption Lab — Fhenix, Vana | 🕐 Waitlist |
+| 4:00 PM | Mezo Devs Rooftop Happy Hour — Mezo & Encode Club | ✅ Going |
+| 4:00 PM | Proof of Liquidity — Yield Network & Ink | ⏳ Pending |
+| 5:30 PM | After Hours with Rain & Turnkey | ✅ Going |
+| 7:00 PM | House of AI: After Dark — 0G Foundation | 🕐 Waitlist |
+
+## Wednesday, April 1
+
+| Time | Event | Status |
+|------|-------|--------|
+| 9:00 AM | Hack Seasons Conference Cannes | ✅ Going |
+| 9:00 AM | RedStone Bolt Cannes Run ⚡ | ✅ Going |
+| 11:00 AM | Breakfast with friends — Masterkey VC | ⏳ Pending |
+| 4:00 PM | ArbiLink @ ETHCC Cannes | ✅ Going |
+| 6:00 PM | **B€€R. Euros. DeFi.** — The Quay's Irish Pub (hosting) | 🎤 Organizer |
+
+## Thursday, April 2
+
+| Time | Event | Status |
+|------|-------|--------|
+| 8:30 AM | Fun Run with Gnosis | ✅ Going |
+| 9:00 AM | Arbitrum DAO Breakfast Croissants — Arbitrum OpCo | ✅ Going |
+| 9:30 AM | Pragma Cannes 2026 — ETHGlobal | ✅ Going |
+| 2:00 PM | Pétanque & Espresso at EthCC — Espresso Systems | ✅ Going |
+| 2:00 PM | Private Garden Party — Oasis Network, Flare, iExec | ✅ Going |
+
 # What I'm Looking For Here
 
 - Builders working in the Arbitrum ecosystem — I can help you connect with the right people
